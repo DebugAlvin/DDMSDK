@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HBuildSDK'
-  s.version          = '0.0.1'
+  s.version          = 'v0.0.1'
   s.summary          = 'A short description of HBuildSDK.'
 
 # This description is used to generate tags and improve search results.
